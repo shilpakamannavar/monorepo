@@ -1,0 +1,3 @@
+[submodule "src/hello_reactjs"]
+	path = src/hello_reactjs
+	url = https://github.com/shilpakamannavar/monorepo.git
